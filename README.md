@@ -1,22 +1,10 @@
-#MEAN Session Three
+#MEAN Session Four
 
 ##Assignment
 tbd
 
 ##Tools of the trade - continued
 
-Github
-```
-git init
-git add .
-git commit -m 'message here'
-git push -u origin master
-git branch version2
-git checkout version2
-
-git config --global user.name "username"
-git config --global user.email "you@email.com"
-```
 * [Github forking](https://help.github.com/articles/fork-a-repo/) 
 * [Github commenting](https://help.github.com/articles/markdown-basics/)
 
@@ -45,4 +33,16 @@ Understand the basic principles of jQuery. This session will cover:
 ##Essentials
 ```
 python -m SimpleHTTPServer
+```
+Github
+```
+git init
+git add .
+git commit -m 'message here'
+git push -u origin master
+git branch version2
+git checkout version2
+
+git config --global user.name "username"
+git config --global user.email "you@email.com"
 ```
