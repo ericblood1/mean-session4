@@ -22,13 +22,12 @@ Other
 
 ##Objectives
 
-Understand the basic principles of jQuery. This session will cover:
+Understand the basic principles of AngularJS. This session will cover:
 
-* jQuery effects on the page (DOM manipulation - menus and accordion)
-* The problem with jQuery for SPAs (Single page applications)
-* The Chrome Web Developer tool
-* [Package control](https://packagecontrol.io/) and [Emmet](http://emmet.io/) for [Sublime Text](http://www.sublimetext.com/)
-* Git branching and other workflow issues
+* Basic AngularJS principles and directives
+* ng-app
+* ng-model
+* ng-init
 
 ##Essentials
 ```

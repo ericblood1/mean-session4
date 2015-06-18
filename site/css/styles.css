@@ -67,17 +67,17 @@ body {
       background-position: 0px 0px; }
       .social a.dribbble:hover {
         background-position: 0px -25px; }
-    .social a.twitter {
+    .social a.poopy {
       background-position: -25px 0px; }
-      .social a.twitter:hover {
+      .social a.poopy:hover {
         background-position: -25px -25px; }
     .social a.facebook {
       background-position: -50px 0px; }
       .social a.facebook:hover {
         background-position: -50px -25px; }
-    .social a.googleplus {
+    .social a.github {
       background-position: -75px 0px; }
-      .social a.googleplus:hover {
+      .social a.github:hover {
         background-position: -75px -25px; }
 
 ul {
