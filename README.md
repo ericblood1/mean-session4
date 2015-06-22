@@ -11,6 +11,7 @@
 * [JavaScript Objects](http://www.w3schools.com/js/js_object_definition.asp) 
 * [JavaScript Arrays](http://www.w3schools.com/js/js_arrays.asp)
 * [Angular Basic Directives](https://docs.angularjs.org/api/ng/directive/ngSrc)
+* [Angular Filters](https://docs.angularjs.org/api/ng/filter)
 
 Git  
 * [Git checkout](http://git-scm.com/docs/git-checkout)
