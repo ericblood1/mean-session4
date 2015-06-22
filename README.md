@@ -3,8 +3,9 @@
 ##Assignment
 
 * Read chapters One and Two in AngularJS Up and Running
+* apply the Angular filtering to the pirate portfolio
 
-##Tools of the trade - continued
+##From jQuery to Angular
 
 * [Bootstrap](http://getbootstrap.com/getting-started/), SASS, and [CSS](http://getbootstrap.com/css/)
 * Responsive design: breakpoints and images
