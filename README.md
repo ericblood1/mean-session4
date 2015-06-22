@@ -7,12 +7,12 @@
 
 ##From jQuery to Angular
 
-* [Bootstrap](http://getbootstrap.com/getting-started/), SASS, and [CSS](http://getbootstrap.com/css/)
 * Responsive design: breakpoints and images
 * [JavaScript Objects](http://www.w3schools.com/js/js_object_definition.asp) 
 * [JavaScript Arrays](http://www.w3schools.com/js/js_arrays.asp)
 * [Angular Basic Directives](https://docs.angularjs.org/api/ng/directive/ngSrc)
 * [Angular Filters](https://docs.angularjs.org/api/ng/filter)
+* [Bootstrap](http://getbootstrap.com/getting-started/), SASS, and [CSS](http://getbootstrap.com/css/)
 
 Git  
 * [Git checkout](http://git-scm.com/docs/git-checkout)
