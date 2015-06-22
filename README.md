@@ -9,6 +9,9 @@
 * [Bootstrap](http://getbootstrap.com/getting-started/) and SASS
 * Responsive design: breakpoints and images
 * [Codekit](https://incident57.com/codekit/)
+* [Angular JS](https://angularjs.org)
+* [Angular Code](https://code.angularjs.org/)
+* [Angular Docs](https://docs.angularjs.org/api)
 * [Github forking](https://help.github.com/articles/fork-a-repo/) 
 * [Github commenting](https://help.github.com/articles/markdown-basics/)
 
