@@ -6,6 +6,9 @@
 
 ##Tools of the trade - continued
 
+* [Bootstrap](http://getbootstrap.com/getting-started/) and SASS
+* Responsive design: breakpoints and images
+* [Codekit](https://incident57.com/codekit/)
 * [Github forking](https://help.github.com/articles/fork-a-repo/) 
 * [Github commenting](https://help.github.com/articles/markdown-basics/)
 
@@ -16,10 +19,7 @@ Git
 
 Other
 * [Google fonts](https://www.google.com/fonts)
-* [SASS features](http://sass-lang.com/guide): nesting, operators and the difference between SASS and SCSS
-* Responsive design: breakpoints and images
-* CSS pseudo selector: before
-* CSS clearfix, sprites and animation 
+
 
 ##Objectives
 
