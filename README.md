@@ -8,7 +8,6 @@
 
 * [Bootstrap](http://getbootstrap.com/getting-started/) and SASS
 * Responsive design: breakpoints and images
-* [Codekit](https://incident57.com/codekit/)
 * [JavaScript Objects](http://www.w3schools.com/js/js_object_definition.asp) 
 * [JavaScript Arrays](http://www.w3schools.com/js/js_arrays.asp)
 
@@ -20,6 +19,7 @@ Git
 * [Github commenting](https://help.github.com/articles/markdown-basics/)
 
 Other
+* [Codekit](https://incident57.com/codekit/)
 * [Google fonts](https://www.google.com/fonts)
 
 
