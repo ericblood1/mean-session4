@@ -21,6 +21,7 @@ function storeElements() {
 
 function updateHeight() {
     visibleHeight = $(document).height() - $(window).height();
+    console.log("Visible height: " + visibleHeight);
 }
 
 function loadContent() {
