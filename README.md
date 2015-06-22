@@ -9,13 +9,15 @@
 * [Bootstrap](http://getbootstrap.com/getting-started/) and SASS
 * Responsive design: breakpoints and images
 * [Codekit](https://incident57.com/codekit/)
-* [Github forking](https://help.github.com/articles/fork-a-repo/) 
-* [Github commenting](https://help.github.com/articles/markdown-basics/)
+* [JavaScript Objects](http://www.w3schools.com/js/js_object_definition.asp) 
+* [JavaScript Arrays](http://www.w3schools.com/js/js_arrays.asp)
 
 Git  
 * [Git checkout](http://git-scm.com/docs/git-checkout)
 * [Git branch](http://git-scm.com/docs/git-branch)
 * [Git push](http://git-scm.com/docs/git-push)
+* [Github forking](https://help.github.com/articles/fork-a-repo/) 
+* [Github commenting](https://help.github.com/articles/markdown-basics/)
 
 Other
 * [Google fonts](https://www.google.com/fonts)
