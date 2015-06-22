@@ -1,7 +1,8 @@
 #MEAN Session Four
 
 ##Assignment
-tbd
+
+* Read chapters One and Two in AngularJS Up and Running
 
 ##Tools of the trade - continued
 
